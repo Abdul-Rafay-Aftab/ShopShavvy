@@ -43,7 +43,7 @@ const Aboutus = (props) => {
             size="sm"
             variant="fill"
           >
-            Explore More
+            Explore More and more 
           </Button>
         </div>
       </div>
