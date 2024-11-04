@@ -1,6 +1,5 @@
 ## abdul_rafay_s_application
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
